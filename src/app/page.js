@@ -22,7 +22,7 @@ const projects = [
     color:  "#1b2838"
   },
   {
-    title: "Destiny2",
+    title: "Destiny 2",
     src: "Destiny2.jpeg",
     color:  "#1b2838"
   }
@@ -42,6 +42,7 @@ export default function Home() {
       }
     </div>
     <Modal modal={modal} projects={projects}/>
+   
   </main>
   )
 }
