@@ -25,6 +25,8 @@
 }
 
 .project h2{
+    color:#c6d4df;
+    color:#7bcbf3;
     font-size: 60px;
     margin: 0px;
     font-weight: 400;
@@ -32,6 +34,7 @@
 }
 
 .project p{
+    color:#c6d4df;
     transition: all 0.4s;
     font-weight: 300;
 }

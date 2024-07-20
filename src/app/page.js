@@ -6,24 +6,25 @@ import Modal from '../components/modal';
 
 const projects = [
   {
-    title: "C2 Montreal",
-    src: "c2montreal.png",
-    color: "#000000"
+    title: "Fallout",
+    src: "Fallout.jpg",
+    color: "#1b2838"
   },
   {
-    title: "Office Studio",
-    src: "officestudio.png",
-    color: "#8C8C8C"
+    title: "Insider",
+    src: "Inside.jpg",
+    color:  "#1b2838",
+    
   },
   {
-    title: "Locomotive",
-    src: "locomotive.png",
-    color: "#EFE8D3"
+    title: "Ghost Of Tsushima",
+    src: "ghostoftsushima.jpg",
+    color:  "#1b2838"
   },
   {
-    title: "Silencio",
-    src: "silencio.png",
-    color: "#706D63"
+    title: "Destiny2",
+    src: "Destiny2.jpeg",
+    color:  "#1b2838"
   }
 ]
 
